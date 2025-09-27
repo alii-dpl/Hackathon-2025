@@ -78,7 +78,7 @@ Copy code
 
 ---
 
-## Task 4: Streamlit UI (≈15 min)  
+## Task 4: Streamlit UI (≈15 min) (Optional) 
 **Goal:** interactive filtering & ranking.  
 
 **Sidebar filters:**  
@@ -99,7 +99,7 @@ Copy code
 
 ---
 
-## Task 5: Bonus — Outreach Message (≈5 min)  
+## Task 5: Bonus — Outreach Message (≈5 min) (Optional) 
 **Goal:** generate a polite draft to a tutor.  
 
 - Inputs: tutor name, subjects, city, years.  
@@ -113,7 +113,7 @@ Copy code
 
 ---
 
-## Task 6: Stretch — Dockerize (≈5–10 min if time)  
+## Task 6: Stretch — Dockerize (≈5–10 min)  (Optional) 
 **Goal:** run anywhere.  
 
 - Base: `python:3.10-slim`.  
